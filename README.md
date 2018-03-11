@@ -3,4 +3,4 @@
 #### Background Story:
 ![](https://github.com/HUAZHEYINy/DesignPatternPractive/blob/master/DesignPatternPractice/src/Chap2ObserverPattern/RelatedImages/background.png)  
 #### Class Diagram:  
-![](https://github.com/HUAZHEYINy/DesignPatternPractive/blob/master/DesignPatternPractice/src/Chap2ObserverPattern/RelatedImages/classDiagram.png)
+![](https://github.com/HUAZHEYINy/DesignPatternPractive/blob/master/DesignPatternPractice/src/Chap2ObserverPattern/RelatedImages/classDiagramImg.png)
